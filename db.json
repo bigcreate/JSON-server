@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "user1": {
+    "token": "token1",
+    "name": "name1"
   }
 }
