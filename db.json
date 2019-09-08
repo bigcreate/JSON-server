@@ -14,5 +14,9 @@
   "user1": {
     "token": "token1",
     "name": "name1"
+  },
+  "user2": {
+    "token": "token2",
+    "name": "name2"
   }
 }
