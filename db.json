@@ -1,16 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "user1": {
     "token": "token1",
     "name": "name1"
@@ -18,5 +6,27 @@
   "user2": {
     "token": "token2",
     "name": "name2"
-  }
+  },
+  "todos": [
+    {
+      "id": 1,
+      "title": "todo1"
+    },
+    {
+      "id": 2,
+      "title": "todo2"
+    },
+    {
+      "id": 3,
+      "title": "todo3"
+    },
+    {
+      "id": 4,
+      "title": "todo4"
+    },
+    {
+      "id": 5,
+      "title": "todo5"
+    }
+  ]
 }
